@@ -1,5 +1,5 @@
 # Ken-s_Supplies_Sales_Performance_Analysis
-Ken’s Supplies struggled to understand year-over-year sales performance across product subcategories, which made it difficult to optimize inventory, pricing, and future product investments. To address this, I conducted a comprehensive analysis using Tableau, focusing on key business metrics such as sales revenue, profit, and quantity sold. 
+Ken’s Supplies struggled to understand year-over-year sales performance across product subcategories, which made it difficult to optimize inventory, pricing, and future product investments. To address this, I conducted a comprehensive analysis using Tableau, focusing on key business metrics such as sales revenue, profit, and quantity  sold. 
 
 ![office-supplies](https://github.com/user-attachments/assets/1ccfa646-f53b-4017-8137-9ecd7e7e4bc9)
 
